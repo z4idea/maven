@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog xsi:schemaLocation="https://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 https://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd"
+    xmlns="https://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <archetypes>
+    <archetype>
+      <groupId>io.github.z4idea</groupId>
+      <artifactId>mcp-server-lite</artifactId>
+      <version>1.0</version>
+      <description>mcp server by z4idea</description>
+    </archetype>
+  </archetypes>
+</archetype-catalog>
