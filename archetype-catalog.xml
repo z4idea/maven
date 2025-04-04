@@ -33,5 +33,11 @@
       <version>2.1</version>
       <description>mcp server by z4idea</description>
     </archetype>
+    <archetype>
+      <groupId>io.github.z4idea</groupId>
+      <artifactId>mcp-server-lite</artifactId>
+      <version>2.2</version>
+      <description>mcp server by z4idea</description>
+    </archetype>
   </archetypes>
 </archetype-catalog>
